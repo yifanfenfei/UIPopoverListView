@@ -25,6 +25,7 @@
 		18DC6AB316F071C600E9A512 /* ic_twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DC6AAF16F071C600E9A512 /* ic_twitter.png */; };
 		80533A431923306500805740 /* AddFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 80533A421923306500805740 /* AddFile.m */; };
 		80533A46192338C600805740 /* SunJian.m in Sources */ = {isa = PBXBuildFile; fileRef = 80533A45192338C600805740 /* SunJian.m */; };
+		80533A4919234C3C00805740 /* ss.m in Sources */ = {isa = PBXBuildFile; fileRef = 80533A4819234C3C00805740 /* ss.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,8 @@
 		80533A421923306500805740 /* AddFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddFile.m; sourceTree = "<group>"; };
 		80533A44192338C600805740 /* SunJian.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SunJian.h; sourceTree = "<group>"; };
 		80533A45192338C600805740 /* SunJian.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SunJian.m; sourceTree = "<group>"; };
+		80533A4719234C3C00805740 /* ss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ss.h; sourceTree = "<group>"; };
+		80533A4819234C3C00805740 /* ss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ss.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 				80533A421923306500805740 /* AddFile.m */,
 				80533A44192338C600805740 /* SunJian.h */,
 				80533A45192338C600805740 /* SunJian.m */,
+				80533A4719234C3C00805740 /* ss.h */,
+				80533A4819234C3C00805740 /* ss.m */,
 			);
 			path = UIPopoverListViewDemo;
 			sourceTree = "<group>";
@@ -217,6 +222,7 @@
 				80533A46192338C600805740 /* SunJian.m in Sources */,
 				18DC6AA516F06FD600E9A512 /* ViewController.m in Sources */,
 				18DC6AA816F0704B00E9A512 /* UIPopoverListView.m in Sources */,
+				80533A4919234C3C00805740 /* ss.m in Sources */,
 				80533A431923306500805740 /* AddFile.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
