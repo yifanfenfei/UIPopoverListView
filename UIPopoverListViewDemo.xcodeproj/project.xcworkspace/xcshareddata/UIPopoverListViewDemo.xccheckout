@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>548A0E26-305A-486B-9D3F-8FCA42AA34EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIPopoverListViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A3463DF-DCF3-44E7-A23F-E88EC173B4FC</key>
+		<string>https://github.com/Vtion/UIPopoverListView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIPopoverListViewDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A3463DF-DCF3-44E7-A23F-E88EC173B4FC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Vtion/UIPopoverListView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A3463DF-DCF3-44E7-A23F-E88EC173B4FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A3463DF-DCF3-44E7-A23F-E88EC173B4FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIPopoverListView-Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
