@@ -24,6 +24,7 @@
 		18DC6AB216F071C600E9A512 /* ic_share_email.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DC6AAE16F071C600E9A512 /* ic_share_email.png */; };
 		18DC6AB316F071C600E9A512 /* ic_twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 18DC6AAF16F071C600E9A512 /* ic_twitter.png */; };
 		80533A431923306500805740 /* AddFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 80533A421923306500805740 /* AddFile.m */; };
+		80533A46192338C600805740 /* SunJian.m in Sources */ = {isa = PBXBuildFile; fileRef = 80533A45192338C600805740 /* SunJian.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,8 @@
 		18DC6AAF16F071C600E9A512 /* ic_twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_twitter.png; sourceTree = "<group>"; };
 		80533A411923306500805740 /* AddFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddFile.h; sourceTree = "<group>"; };
 		80533A421923306500805740 /* AddFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddFile.m; sourceTree = "<group>"; };
+		80533A44192338C600805740 /* SunJian.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SunJian.h; sourceTree = "<group>"; };
+		80533A45192338C600805740 /* SunJian.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SunJian.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +112,8 @@
 				18DC6A8D16F06FA500E9A512 /* Supporting Files */,
 				80533A411923306500805740 /* AddFile.h */,
 				80533A421923306500805740 /* AddFile.m */,
+				80533A44192338C600805740 /* SunJian.h */,
+				80533A45192338C600805740 /* SunJian.m */,
 			);
 			path = UIPopoverListViewDemo;
 			sourceTree = "<group>";
@@ -209,6 +214,7 @@
 			files = (
 				18DC6A9316F06FA500E9A512 /* main.m in Sources */,
 				18DC6A9716F06FA500E9A512 /* AppDelegate.m in Sources */,
+				80533A46192338C600805740 /* SunJian.m in Sources */,
 				18DC6AA516F06FD600E9A512 /* ViewController.m in Sources */,
 				18DC6AA816F0704B00E9A512 /* UIPopoverListView.m in Sources */,
 				80533A431923306500805740 /* AddFile.m in Sources */,
